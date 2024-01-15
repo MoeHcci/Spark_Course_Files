@@ -1,4 +1,5 @@
 
+
 # 0. imports required to allow us to interact with the DataFrames and Spark SQL (i.e., boilerplate)
 from pyspark.sql import SparkSession
 from pyspark.sql import Row
